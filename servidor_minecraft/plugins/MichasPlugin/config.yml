@@ -1,0 +1,5 @@
+# Hi world is the world that we are working on and working. We are working on the following functions that we are working (By: El autocorrector)
+uhc-simple-config:
+  minplayers: 50 # Amount of players to make the game start
+  #Tiempo en segundos 900 es 15 min
+  tiemposinpvp: 900 # Amount of time with pvp disabled
